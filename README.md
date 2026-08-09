@@ -21,6 +21,7 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
 ## Prefix Sum
 |  |
@@ -35,4 +36,12 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Pranshulsuthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
