@@ -11,6 +11,7 @@
 | [0136-single-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
 | [1470-shuffle-the-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
+| [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
 | ------- |
