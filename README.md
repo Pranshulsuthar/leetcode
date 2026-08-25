@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pranshulsuthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
 ## Stack
@@ -68,4 +69,12 @@
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Pranshulsuthar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1929-concatenation-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
