@@ -37,6 +37,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | [0001-two-sum](https://github.com/Pranshulsuthar/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -95,6 +97,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -103,4 +106,8 @@
 |  |
 | ------- |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
