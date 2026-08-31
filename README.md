@@ -26,6 +26,7 @@
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@
 | [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pranshulsuthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
+| [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -95,4 +97,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
