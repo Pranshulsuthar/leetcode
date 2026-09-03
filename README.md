@@ -61,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pranshulsuthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Stack
 |  |
@@ -135,4 +136,24 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
