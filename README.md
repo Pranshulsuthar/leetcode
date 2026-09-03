@@ -15,6 +15,7 @@
 | [0238-product-of-array-except-self](https://github.com/Pranshulsuthar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
+| [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pranshulsuthar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1470-shuffle-the-array) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Pranshulsuthar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1929-concatenation-of-array) |
 ## Linked List
