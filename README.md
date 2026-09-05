@@ -25,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Recursion
 |  |
 | ------- |
