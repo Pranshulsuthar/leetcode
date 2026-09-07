@@ -32,6 +32,7 @@
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
@@ -98,6 +99,7 @@
 | [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
