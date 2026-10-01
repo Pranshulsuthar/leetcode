@@ -16,6 +16,7 @@
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Pranshulsuthar/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1470-shuffle-the-array) |
@@ -82,6 +83,7 @@
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -167,4 +170,24 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
