@@ -7,6 +7,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Pranshulsuthar/leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshulsuthar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0136-single-number) |
@@ -127,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Queue
 |  |
