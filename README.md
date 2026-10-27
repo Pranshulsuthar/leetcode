@@ -67,6 +67,7 @@
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [3516-find-closest-person](https://github.com/Pranshulsuthar/leetcode/tree/master/3516-find-closest-person) |
 ## Stack
 |  |
 | ------- |
