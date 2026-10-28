@@ -52,6 +52,7 @@
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Pranshulsuthar/leetcode/tree/master/0459-repeated-substring-pattern) |
+| [2390-removing-stars-from-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pranshulsuthar/leetcode/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -105,6 +107,7 @@
 | [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/Pranshulsuthar/leetcode/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Pranshulsuthar/leetcode/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
