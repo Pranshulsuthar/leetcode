@@ -17,6 +17,7 @@
 | [0238-product-of-array-except-self](https://github.com/Pranshulsuthar/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
 | [0682-baseball-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0682-baseball-game) |
 | [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
@@ -35,6 +36,7 @@
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/Pranshulsuthar/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Pranshulsuthar/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -65,6 +67,7 @@
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Pranshulsuthar/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
@@ -94,6 +97,7 @@
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Pranshulsuthar/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0414-third-maximum-number) |
 | [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -142,6 +146,7 @@
 | [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pranshulsuthar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Queue
 |  |
