@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranshulsuthar/leetcode/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshulsuthar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranshulsuthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -143,6 +144,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0912-sort-an-array) |
@@ -245,6 +247,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranshulsuthar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -253,6 +256,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Pranshulsuthar/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -265,4 +269,8 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
