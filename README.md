@@ -10,6 +10,7 @@
 | [0027-remove-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Pranshulsuthar/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Pranshulsuthar/leetcode/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pranshulsuthar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -87,6 +88,7 @@
 | [0002-add-two-numbers](https://github.com/Pranshulsuthar/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Pranshulsuthar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Pranshulsuthar/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Pranshulsuthar/leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Pranshulsuthar/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Pranshulsuthar/leetcode/tree/master/0292-nim-game) |
