@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pranshulsuthar/leetcode/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Pranshulsuthar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
@@ -153,6 +154,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Pranshulsuthar/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Pranshulsuthar/leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Pranshulsuthar/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -169,6 +171,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Pranshulsuthar/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Pranshulsuthar/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Pranshulsuthar/leetcode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pranshulsuthar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
